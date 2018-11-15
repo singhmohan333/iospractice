@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "record"; ObjectID = "7zD-LC-5yr"; */
+"7zD-LC-5yr.normalTitle" = "record";
+
+/* Class = "UIViewController"; title = "Record"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Record";
+
+/* Class = "UILabel"; text = "Tap to Record"; ObjectID = "Ld5-aA-aNC"; */
+"Ld5-aA-aNC.text" = "Tap to Record";
+
+/* Class = "UIButton"; normalTitle = "Stop Recording"; ObjectID = "kvF-oU-6Em"; */
+"kvF-oU-6Em.normalTitle" = "Stop Recording";
